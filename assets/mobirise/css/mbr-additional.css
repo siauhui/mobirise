@@ -2141,7 +2141,7 @@ body {
 .cid-quTWzz3Gk5 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/gettyimages-1984x1116.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1080.jpg");
 }
 @media (min-width: 992px) {
   .cid-quTWzz3Gk5 .mbr-figure {
@@ -2152,6 +2152,9 @@ body {
   .cid-quTWzz3Gk5 .mbr-figure {
     padding-top: 3rem;
   }
+}
+.cid-quTWzz3Gk5 .mbr-section-title B {
+  color: #000000;
 }
 .cid-quUzd26Cci {
   padding-top: 30px;
